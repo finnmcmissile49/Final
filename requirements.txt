@@ -1,0 +1,7 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+gradio
